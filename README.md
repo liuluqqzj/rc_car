@@ -1,11 +1,10 @@
 # rc_car
-control the cat by raspberry pi
+Target: control the cat by raspberry pi
 
-command need to execute:
-cd ./build/
-cmake ../
-make
-
-sudo ./car 
+Some commands need to execute before you use it
+1. cd ./build/
+2. cmake ../
+3. make
+4. sudo ./car 
 
 enjoy it.
